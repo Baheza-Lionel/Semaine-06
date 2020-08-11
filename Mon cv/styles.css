@@ -130,8 +130,8 @@ span{
   left: 1050px;
   top:4px;
 }
-.my-linkedin-page {
-color:#0F4C75;
+.my-linkedin-page a:hover{
+color:#FF847C ;
 }
 .my-linkedin-page{
   font-family:"lemonada";
@@ -139,8 +139,8 @@ color:#0F4C75;
   left:900px;
 }
 
-.my-email {
-color:#0F4C75 ;
+.my-email a:hover{
+color:#FF847C  ;
 }
 .my-email{
   font-family:"lemonada";
@@ -173,7 +173,7 @@ color:#0F4C75 ;
 .étude{
   position: relative;
   top:-20px;
-  left: 100px;
+  left: 10px;
   font-family: "lemonada";
   font-size: large;
 }
@@ -226,8 +226,8 @@ input{
 .frame{
   width:450px;
   height: 250px;
-  margin:10px;
-  padding: 5px;
+  margin:2px;
+  padding: 2px;
   position: relative;
   bottom: 35px;
 }
@@ -236,7 +236,7 @@ p{
   left:800px;
   bottom:550px;
   color: #0F4C75;
-  font-size: xx-large;
+  font-size: x-large;
   font-family: "lemonada";
 }
 
