@@ -130,8 +130,8 @@ span{
   left: 1050px;
   top:4px;
 }
-.my-linkedin-page a:hover{
-color:#FF847C ;
+.my-linkedin-page {
+color:#0F4C75;
 }
 .my-linkedin-page{
   font-family:"lemonada";
@@ -139,8 +139,8 @@ color:#FF847C ;
   left:900px;
 }
 
-.my-email a:hover{
-color:#FF847C  ;
+.my-email {
+color:#0F4C75 ;
 }
 .my-email{
   font-family:"lemonada";
